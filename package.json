@@ -1,0 +1,31 @@
+{
+  "name": "use-async-fn",
+  "version": "1.0.0",
+  "description": "useAsyncFn React hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirillkurko/use-async-fn.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "useAsyncFn"
+  ],
+  "author": "Kirill Kurko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirillkurko/use-async-fn/issues"
+  },
+  "homepage": "https://github.com/kirillkurko/use-async-fn#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
