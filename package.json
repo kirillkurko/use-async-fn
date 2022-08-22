@@ -21,9 +21,10 @@
     "url": "https://github.com/kirillkurko/use-async-fn/issues"
   },
   "homepage": "https://github.com/kirillkurko/use-async-fn#readme",
+  "files": ["lib/**/*"],
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^16.8.0  || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0  || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "typescript": "^4.7.4"
