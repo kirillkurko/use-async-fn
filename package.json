@@ -1,5 +1,5 @@
 {
-  "name": "use-async-fn",
+  "name": "@kkurko/use-async-fn",
   "version": "1.0.0",
   "description": "useAsyncFn React hook",
   "main": "index.js",
